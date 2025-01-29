@@ -18,10 +18,10 @@ const App = () => {
           </p>
           <ul className="text-gray-600 mb-4 flex flex-col gap-2 text-sm">
             <li>
-              <strong>📅 Tanggal:</strong> Minggu, 2 Febreuari 2025
+              <strong>📅 Tanggal:</strong> Minggu, 2 Februari 2025
             </li>
             <li>
-              <strong>⏰ Waktu:</strong> 09:00 WIB
+              <strong>⏰ Waktu:</strong> 10.30 WIB
             </li>
             <li>
               <strong>📍 Lokasi:</strong> Resto Kalibatur Salatiga
